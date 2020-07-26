@@ -1,0 +1,7 @@
+{
+  "name": "videoPoc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
